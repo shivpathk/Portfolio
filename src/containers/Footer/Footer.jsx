@@ -25,7 +25,7 @@ const contacts = [
   {
     name: "Gmail",
     icon: images.gmail,
-    link: "https://mail.google.com/mail/u/?authuser=shivampathakjnv21@gmail.com",
+    link: "mailto:shivampathakjnv21@gmail.com",
   },
   {
     name: "Linkedin",

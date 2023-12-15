@@ -32,7 +32,7 @@ const SocialMedia = () => {
       <div>
         <a
           href={
-            "https://mail.google.com/mail/u/?authuser=shivampathakjnv21@gmail.com"
+            "mailto:shivampathakjnv21@gmail.com"
           }
           target="_blank"
           rel="noreferrer"

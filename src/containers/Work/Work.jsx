@@ -13,7 +13,7 @@ const works = [
     description:
       "I am a frontend developer with a passion for building beautiful web applications.",
     imgUrl: images.fc,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-flipkart-clone.netlify.app/",
     codeLink:"https://github.com/shivpathk/Flipkart-clone",
     tags:["HTML-CSS Projects"]
   },
@@ -22,7 +22,7 @@ const works = [
     description:
       "I am a frontend developer with a passion for building beautiful web applications.",
     imgUrl: images.glp,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-genius-learning-point.netlify.app/",
     codeLink:"https://github.com/shivpathk/Genius-Learning-Point",
     tags:["HTML-CSS Projects"]
   },
@@ -31,7 +31,7 @@ const works = [
     description:
       "I am a backend developer with a passion for building beautiful web applications",
     imgUrl: images.jf,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-jannat-foundation.netlify.app/",
     codeLink:"https://github.com/shivpathk/Jannat-Foundation",
     tags:["HTML-CSS Projects"]
   },
@@ -40,7 +40,7 @@ const works = [
     description:
       "I am a fullstack developer with a passion for building beautiful web applications",
     imgUrl: images.ttt,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-tic-tac-toe.netlify.app/",
     codeLink:"https://github.com/shivpathk/tic-tac-toe",
     tags:['React Projects']
   },
@@ -49,7 +49,7 @@ const works = [
     description:
       "I am a fullstack developer with a passion for building beautiful web applications",
     imgUrl: images.weather,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-weather-check.netlify.app/",
     codeLink:"https://github.com/shivpathk/Weather-check-project",
     tags:['React Projects']
   },
@@ -58,7 +58,7 @@ const works = [
     description:
       "I am a fullstack developer with a passion for building beautiful web applications",
     imgUrl: images.tdl,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-to-do-app.netlify.app/",
     codeLink:"https://github.com/shivpathk/todo-app-project",
     tags:["MERN Projects"]
   },
@@ -67,7 +67,7 @@ const works = [
     description:
       "I am a fullstack developer with a passion for building beautiful web applications",
     imgUrl: images.olx,
-    projectLink: "https://www.google.com/",
+    projectLink: "https://shiv-sasta-olx.netlify.app/",
     codeLink:"https://github.com/shivpathk/Full-Stack-Ecomerse-site-project",
     tags:["MERN Projects"]
   },
