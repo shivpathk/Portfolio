@@ -50,7 +50,7 @@ const Header = () => {
             </p>
           </div>
           <div>
-            <a href={images.cv} download>
+            <a href="https://drive.google.com/file/d/1cLqbTkJVV70HhtbTVs18hJ-JJKzRokYl/view?usp=sharing" target="_blank">
               <button type="button" className="p-text">
                 Download CV
               </button>
@@ -68,7 +68,7 @@ const Header = () => {
         transition={{ duration: 0.8, delayChildern: 0.5 }}
         className="app__header-img"
       >
-        <img src={images.profile} alt="profile_bg" height={"500px"} />
+        <img src={images.profile} alt="profile_bg" height={"590px"} />
         <motion.img
           whileInView={{ scale: [0, 1] }}
           transition={{ duration: 1, ease: "easeInOut" }}

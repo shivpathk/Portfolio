@@ -8,6 +8,23 @@ import { images } from "../../constants";
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
+  const sliderLeft = (cont = true , exit = true , customVal = "%") =>{
+    const output = {
+      initial:{
+        x:`100${customVal}`
+      },
+      animate:{
+        x:0,
+      },
+      exit:{
+        x:`-100${customVal}`
+      }
+    };
+    if (!cont) output.exit = {x:`100${customVal}`};
+    if (!exit) delete output.exit;
+    return output;
+  }
+
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
@@ -26,8 +43,11 @@ const Navbar = () => {
 
         {toggle && (
           <motion.div
-            whileInView={{ x: [300,0] }}
+          variants={sliderLeft(true)}
+          initial="initial"
+            whileInView="animate"
             transition={{ duration: 0.9, ease: 'easeOut' }}
+            viewport={{once:true}}
           >
             <HiX onClick={() => setToggle(false)} />
             <ul>

@@ -86,6 +86,29 @@ const Testimonials = () => {
 
   const test = testimonials[currentIndex];
 
+  const timeoutRef = React.useRef(null);
+
+  function resetTimeout() {
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+    }
+  }
+
+  useEffect(() => {
+    resetTimeout();
+    timeoutRef.current = setTimeout(
+    () =>
+    setCurrentIndex((prevIndex) =>
+    prevIndex === testimonials.length - 1 ? 0 : prevIndex + 1),
+  
+    2500);
+  
+    return () => {
+      resetTimeout();
+    };
+  }, [currentIndex]);
+
+
   const handleClick = (index) => {
     setCurrentIndex(index);
   };
