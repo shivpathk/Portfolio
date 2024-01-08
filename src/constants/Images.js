@@ -19,6 +19,8 @@ import c from '../assets/c.png';
 import java from '../assets/java.png';
 import api from '../assets/api.png';
 import glp from '../assets/glp.png';
+import deepak_art from '../assets/deepak_art.png';
+import news_today from '../assets/news_today.png';
 import jf from '../assets/jf.png';
 import fc from '../assets/fc.png';
 import ttt from '../assets/ttt.png';
@@ -61,6 +63,8 @@ import cv from '../assets/shivam_cv.pdf'
 export default {
   email,
   glp,
+  deepak_art,
+  news_today,
   jf,
   fc,
   ttt,

@@ -11,7 +11,7 @@ const works = [
   {
     title: "Flipkart Clone",
     description:
-      "I am a frontend developer with a passion for building beautiful web applications.",
+      "It is the very first Project i have created using just HTML and CSS",
     imgUrl: images.fc,
     projectLink: "https://shiv-flipkart-clone.netlify.app/",
     codeLink:"https://github.com/shivpathk/Flipkart-clone",
@@ -20,7 +20,7 @@ const works = [
   {
     title: "Genius Learning Point",
     description:
-      "I am a frontend developer with a passion for building beautiful web applications.",
+      "I created it for my friend who is the owner of e-learning platform Genius Learning Point",
     imgUrl: images.glp,
     projectLink: "https://shiv-genius-learning-point.netlify.app/",
     codeLink:"https://github.com/shivpathk/Genius-Learning-Point",
@@ -29,7 +29,7 @@ const works = [
   {
     title: "Jannat Foundation",
     description:
-      "I am a backend developer with a passion for building beautiful web applications",
+      "It is a frontend website for a non profitable foundation named Jannat Foundation",
     imgUrl: images.jf,
     projectLink: "https://shiv-jannat-foundation.netlify.app/",
     codeLink:"https://github.com/shivpathk/Jannat-Foundation",
@@ -38,7 +38,7 @@ const works = [
   {
     title: "Tic Tac Toe Game",
     description:
-      "I am a fullstack developer with a passion for building beautiful web applications",
+      "The very famous Tic Tac Toe game created using react and vanilla CSS",
     imgUrl: images.ttt,
     projectLink: "https://shiv-tic-tac-toe.netlify.app/",
     codeLink:"https://github.com/shivpathk/tic-tac-toe",
@@ -47,16 +47,16 @@ const works = [
   {
     title: "Weather Check",
     description:
-      "I am a fullstack developer with a passion for building beautiful web applications",
+      "It is weather forcasting website , i used the weather api for latest data",
     imgUrl: images.weather,
-    projectLink: "https://shiv-weather-check.netlify.app/",
+    projectLink: "https://github.com/shivpathk/Weather-check-project",
     codeLink:"https://github.com/shivpathk/Weather-check-project",
     tags:['React Projects']
   },
   {
     title: "To Do List",
     description:
-      "I am a fullstack developer with a passion for building beautiful web applications",
+      "A simple to do list web app where you can add the daily task and then mark it when done",
     imgUrl: images.tdl,
     projectLink: "https://shiv-to-do-app.netlify.app/",
     codeLink:"https://github.com/shivpathk/todo-app-project",
@@ -65,11 +65,29 @@ const works = [
   {
     title: "Sasta OLX",
     description:
-      "I am a fullstack developer with a passion for building beautiful web applications",
+      "It is a website like OLX with functions like add, edit, delete, sell, buy and add to cart",
     imgUrl: images.olx,
     projectLink: "https://shiv-sasta-olx.netlify.app/",
     codeLink:"https://github.com/shivpathk/Full-Stack-Ecomerse-site-project",
     tags:["MERN Projects"]
+  },
+  {
+    title: "Sketch Artist Deepak",
+    description:
+      "I created this website for one of my very tallented friend who is a sketch artist",
+    imgUrl: images.deepak_art,
+    projectLink: "https://deepakat1.netlify.app/",
+    codeLink:"https://github.com/shivpathk/deepak_artist_website",
+    tags:["React Projects"]
+  },
+  {
+    title: "News Today",
+    description:
+      "A News learning web app with categories like business, sports , health ... etc",
+    imgUrl: images.news_today,
+    projectLink: "https://github.com/shivpathk/News-Website",
+    codeLink:"https://github.com/shivpathk/News-Website",
+    tags:["React Projects"]
   },
 ];
 
