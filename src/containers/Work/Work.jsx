@@ -85,8 +85,17 @@ const works = [
     description:
       "A News learning web app with categories like business, sports , health ... etc",
     imgUrl: images.news_today,
-    projectLink: "https://github.com/shivpathk/News-Website",
-    codeLink:"https://github.com/shivpathk/News-Website",
+    projectLink: "https://shiv-pathk-news.netlify.app/",
+    codeLink:"https://github.com/shivpathk/news-app",
+    tags:["React Projects"]
+  },
+  {
+    title: "Amazon Clone",
+    description:
+      "Amazon Clone with features like login, signup, logout and add to cart, looks like real Amazon ",
+    imgUrl: images.amzn,
+    projectLink: "https://shivam-amazon-clone.netlify.app/",
+    codeLink:"https://github.com/shivpathk/shivam-amazon-clone",
     tags:["React Projects"]
   },
 ];

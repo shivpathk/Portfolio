@@ -50,7 +50,7 @@ const Header = () => {
             </p>
           </div>
           <div>
-            <a href="https://drive.google.com/file/d/1jYmDXGrxLmtIEqesrBQooNS2o_3BfWHq/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/drive/folders/1AHpwXH7dINOyi4wm6QUcVPSmru4o0d_P?usp=sharing" target="_blank">
               <button type="button" className="p-text">
                 Download CV
               </button>
