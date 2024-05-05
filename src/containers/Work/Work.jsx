@@ -13,7 +13,7 @@ const works = [
     description:
       "It is the very first Project i have created using just HTML and CSS",
     imgUrl: images.fc,
-    projectLink: "https://shiv-flipkart-clone.netlify.app/",
+    projectLink: "https://shivpathk-flipkart-clone.netlify.app/",
     codeLink:"https://github.com/shivpathk/Flipkart-clone",
     tags:["HTML-CSS Projects"]
   },
@@ -22,7 +22,7 @@ const works = [
     description:
       "I created it for my friend who is the owner of e-learning platform Genius Learning Point",
     imgUrl: images.glp,
-    projectLink: "https://shiv-genius-learning-point.netlify.app/",
+    projectLink: "https://shivpathk-genius-learning-point.netlify.app/",
     codeLink:"https://github.com/shivpathk/Genius-Learning-Point",
     tags:["HTML-CSS Projects"]
   },
@@ -31,7 +31,7 @@ const works = [
     description:
       "It is a frontend website for a non profitable foundation named Jannat Foundation",
     imgUrl: images.jf,
-    projectLink: "https://shiv-jannat-foundation.netlify.app/",
+    projectLink: "https://shivpathk-jannat-foundation.netlify.app/",
     codeLink:"https://github.com/shivpathk/Jannat-Foundation",
     tags:["HTML-CSS Projects"]
   },
@@ -40,8 +40,8 @@ const works = [
     description:
       "The very famous Tic Tac Toe game created using react and vanilla CSS",
     imgUrl: images.ttt,
-    projectLink: "https://shiv-tic-tac-toe.netlify.app/",
-    codeLink:"https://github.com/shivpathk/tic-tac-toe",
+    projectLink: "https://shivpathk-tic-tac-toe.netlify.app/",
+    codeLink:"https://github.com/shivpathk/TIC-TAC-TOE-GAME",
     tags:['React Projects']
   },
   {
@@ -58,17 +58,17 @@ const works = [
     description:
       "A simple to do list web app where you can add the daily task and then mark it when done",
     imgUrl: images.tdl,
-    projectLink: "https://shiv-to-do-app.netlify.app/",
+    projectLink: "https://shivpathk-to-do-app.netlify.app/",
     codeLink:"https://github.com/shivpathk/todo-app-project",
     tags:["MERN Projects"]
   },
   {
-    title: "Sasta OLX",
+    title: "OLX Clone",
     description:
       "It is a website like OLX with functions like add, edit, delete, sell, buy and add to cart",
     imgUrl: images.olx,
-    projectLink: "https://shiv-sasta-olx.netlify.app/",
-    codeLink:"https://github.com/shivpathk/Full-Stack-Ecomerse-site-project",
+    projectLink: "https://shivpathk-olx-clone.netlify.app/",
+    codeLink:"https://github.com/shivpathk/olx-clone",
     tags:["MERN Projects"]
   },
   {
@@ -85,8 +85,8 @@ const works = [
     description:
       "A News learning web app with categories like business, sports , health ... etc",
     imgUrl: images.news_today,
-    projectLink: "https://shiv-pathk-news.netlify.app/",
-    codeLink:"https://github.com/shivpathk/news-app",
+    projectLink: "https://shivpathk-news-today.netlify.app/",
+    codeLink:"https://github.com/shivpathk/news-today",
     tags:["React Projects"]
   },
   {
@@ -94,9 +94,18 @@ const works = [
     description:
       "Amazon Clone with features like login, signup, logout and add to cart, looks like real Amazon ",
     imgUrl: images.amzn,
-    projectLink: "https://shivam-amazon-clone.netlify.app/",
-    codeLink:"https://github.com/shivpathk/shivam-amazon-clone",
+    projectLink: "https://shivpathk-amazon-clone.netlify.app/",
+    codeLink:"https://github.com/shivpathk/amazon-clone",
     tags:["React Projects"]
+  },
+  {
+    title: "Textinger Chat App",
+    description:
+      "Testinger is a fullstack realtime chat web app, with responsivness and decent design",
+    imgUrl: images.textinger,
+    projectLink: "https://textinger-dc9bc.web.app/",
+    codeLink:"https://github.com/shivpathk/Textinger",
+    tags:["MERN Projects"]
   },
 ];
 

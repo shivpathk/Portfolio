@@ -28,6 +28,7 @@ import weather from '../assets/weather.png';
 import tdl from '../assets/tdl.png';
 import olx from '../assets/olx.png';
 import amzn from '../assets/amzn.png'
+import textinger from '../assets/textinger.png'
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -66,6 +67,7 @@ export default {
   glp,
   deepak_art,
   news_today,
+  textinger,
   jf,
   fc,
   ttt,
