@@ -8,51 +8,51 @@ import "./Testimonials.scss";
 
 const testimonials = [
   {
-    name: "Anamika",
+    name: "Sunder Pichai",
     company: "GOOGLE",
-    imgurl: images.anamika,
+    imgurl: images.sunder,
     feedback:
       "Shivam's web development prowess is truly commendable. His meticulous attention to detail and innovative approach make him a standout talent in the field.",
   },
   {
-    name: "Happy",
-    company: "CAFE TIFFIN HUT",
-    imgurl: images.happy,
+    name: "Elon Musk",
+    company: "TESLA",
+    imgurl: images.elon,
     feedback:
       "I went to Shivam for creating my commercial website , he was really awesome developer. He created the website very quickly and it was beautiful",
   },
   {
-    name: "Deepak",
+    name: "Bill Gates",
     company: "MICROSOFT",
-    imgurl: images.deepak,
+    imgurl: images.bill,
     feedback:
       "Shivam's commitment to excellence, coupled with a keen eye for user experience, makes him a go-to professional for anyone seeking a skilled and reliable web developer.",
   },
   {
-    name: "Aditya",
-    company: "UBER",
-    imgurl: images.aditya,
+    name: "Mark Zuckerberg",
+    company: "META",
+    imgurl: images.mark,
     feedback:
       "I am glad that i met Shivam for creating a dynamic website for me , he is such a humble man and very tallented , he amazed me with his work, highly recommended",
   },
   {
-    name: "Akash",
-    company: "OYO",
-    imgurl: images.akash,
+    name: "Jeff Bezos",
+    company: "AMAZON",
+    imgurl: images.jeff,
     feedback:
       "Shivam's web wizardry is unmatched – his code turns concepts into captivating digital reality effortlessly. A true maestro in the realm of web development.",
   },
   {
-    name: "Dewesh    ",
-    company: "NETFLIX",
-    imgurl: images.dewesh,
+    name: "Ashneen Grover",
+    company: "BHARAT PAY",
+    imgurl: images.ashneen,
     feedback:
       "Shivam's coding finesse and intuitive design sense set him apart as a remarkable web developer. His ability to turn ideas into functional and visually appealing websites showcases is a amazing",
   },
   {
-    name: "Shashank",
-    company: "AMAZON",
-    imgurl: images.shashank,
+    name: "Ritesh Aggrawal",
+    company: "OYO",
+    imgurl: images.ritesh,
     feedback:
       "Shivam's coding finesse transforms complexities into seamless online experiences, making him a standout web developer with a knack for turning vision into virtual reality.",
   },

@@ -45,13 +45,14 @@ import bolt from '../assets/bolt.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
-import akash from '../assets/akash.png'
-import dewesh from '../assets/dewesh.png'
-import shashank from '../assets/shashank.png'
-import aditya from '../assets/aditya.png'
-import deepak from '../assets/deepak.png'
-import anamika from '../assets/anamika.png'
-import happy from '../assets/happy.png'
+
+import sunder from '../assets/sunder.png'
+import jeff from '../assets/jeff.png'
+import elon from '../assets/elon.png'
+import mark from '../assets/mark.png'
+import ritesh from '../assets/ritesh.png'
+import ashneen from '../assets/ashneen.png'
+import bill from '../assets/bill.png'
 
 import instagram from '../assets/instagram.png'
 import whatsapp from '../assets/whatsapp.png'
@@ -107,13 +108,13 @@ export default {
   spotify,
   circle,
 
-  akash,
-  dewesh,
-  happy,
-  anamika,
-  deepak,
-  aditya,
-  shashank,
+  sunder,
+  jeff,
+  elon,
+  mark,
+  ritesh,
+  ashneen,
+  bill,
 
   instagram,
   whatsapp,
